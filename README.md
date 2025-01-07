@@ -7,4 +7,4 @@ That's what this project is about. Whether you know nothing at all or you've lea
 
 If you're already learning from somwhere else there may be concepts you may have not learned yet based on project's. So if you want to follow the order of project, then shout-out to BroCode's playlist I've learned Py from: https://youtube.com/playlist?list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&si=aYHvjVFSTQe9JnK4
 
-I hope you learn, improve, and enjoy.
+I hope you learn, improve, and enjoy. Good luck!
