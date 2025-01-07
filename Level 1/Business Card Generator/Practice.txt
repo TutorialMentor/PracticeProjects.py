@@ -1,0 +1,11 @@
+Simulate creating a digital business card by storing details like name, job title, and contact info in variables, then printing them.
+
+---------------------------------------
+
+Business Card:
+-----------------
+Name: [name]
+Job Title: [job title]
+Email: [email]
+
+---------------------------------------
