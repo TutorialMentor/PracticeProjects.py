@@ -1,0 +1,7 @@
+print("Welcome to MyWebsite!")
+print("")
+print("1. Home")
+print("2. About Us")
+print("3. Contact Us")
+print("")
+print("Please choose an option by typing the number.")
