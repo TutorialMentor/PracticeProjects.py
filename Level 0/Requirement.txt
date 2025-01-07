@@ -1,0 +1,2 @@
+Concept you need to know for project:
+- print()
