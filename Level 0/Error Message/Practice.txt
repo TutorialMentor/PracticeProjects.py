@@ -1,0 +1,8 @@
+Mimic the following error messages that will appear in software.
+
+---------------------------------------
+
+Error: File not found.
+Please check the file path and try again.
+
+---------------------------------------
