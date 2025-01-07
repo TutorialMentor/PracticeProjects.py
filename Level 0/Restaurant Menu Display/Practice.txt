@@ -2,7 +2,9 @@ Print out a simple restaurant menu. Print everything in a single print.
 
 ---------------------------------------
 
-print("""Today's Menu:
+Today's Menu:
 1. Pizza - $10
 2. Burger - $8
-3. Salad - $6""")
+3. Salad - $6
+
+---------------------------------------
