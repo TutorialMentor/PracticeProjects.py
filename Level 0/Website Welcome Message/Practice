@@ -1,0 +1,13 @@
+Let's say someone opens your website. Simulate a welcome screen for a website by printing a greeting and navigation instructions. It should look something like this:
+
+---------------------------------------
+
+Welcome to MyWebsite!
+
+1. Home
+2. About Us
+3. Contact Us
+
+Please choose an option by typing the number.
+
+---------------------------------------
