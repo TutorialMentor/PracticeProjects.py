@@ -1,2 +1,2 @@
-Concept you need to know for project:
+Concept you need to know for project - (hardcoded version):
 - print()
