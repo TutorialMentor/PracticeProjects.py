@@ -1,0 +1,9 @@
+Simulate logging system messages, like those used in software debugging or monitoring.
+
+---------------------------------------
+
+[INFO] Application started.
+[WARNING] Low disk space.
+[ERROR] Unable to connect to the server.
+
+---------------------------------------
