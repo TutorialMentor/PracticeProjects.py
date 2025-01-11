@@ -1,0 +1,12 @@
+Simulate an FAQ page by printing common questions and their answers.
+
+---------------------------------------
+
+FAQs:
+question1
+answer1
+
+question2
+answer2
+
+---------------------------------------
