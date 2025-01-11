@@ -1,0 +1,11 @@
+Print an advertisement for a product by storing its name, price, and features in variables.
+
+---------------------------------------
+
+Product Advertisement:
+Introducing the new (product name) !
+Price: (price)
+Features:
+(features)
+
+---------------------------------------
