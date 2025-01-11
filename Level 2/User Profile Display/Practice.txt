@@ -1,0 +1,11 @@
+Create a simple user profile display system:
+
+---------------------------------------
+
+User Profile:
+Username: username
+Age: (age) - Int to Str
+Height (in feet): (height) - Int to Str
+Is a student: (is student) - Float
+
+---------------------------------------
