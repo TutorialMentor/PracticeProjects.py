@@ -1,0 +1,3 @@
+Concept you need to know for project - (hardcoded version):
+- Everything from previous level/s
+- Introduction to Strings, Integers, Floats, & Boolean
