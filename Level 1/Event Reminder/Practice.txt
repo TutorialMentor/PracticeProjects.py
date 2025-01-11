@@ -1,0 +1,11 @@
+Create a reminder for an event by storing the event name, date, time, and location as variables.
+
+---------------------------------------
+
+Event Reminder: 
+Event: {event_name}
+Date: {date}
+Time: {time}
+Location: {location}
+
+---------------------------------------
