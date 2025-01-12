@@ -1,0 +1,15 @@
+Create a simple weather report display. Use variables to store:
+City name (string)
+Temperature in Fahrenheit (float)
+Humidity percentage (integer)
+Whether it's raining (boolean)
+Print out each piece of information. Remember to convert non-string data types to strings when printing.
+
+---------------------------------------
+
+Weather Report for New York
+Temperature: 72.5°F
+Humidity: 60%
+Raining: False
+
+---------------------------------------
