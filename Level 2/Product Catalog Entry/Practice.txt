@@ -1,0 +1,16 @@
+Create a product catalog entry. Use variables to store:
+Product name (string)
+Product ID (integer)
+Price (float)
+Whether the item is in stock (boolean)
+Print out each piece of information. Remember to convert non-string data types to strings when printing.
+
+---------------------------------------
+
+Product Information
+Name: Wireless Headphones
+ID: 12345
+Price: $79.99
+Available: True
+
+---------------------------------------
