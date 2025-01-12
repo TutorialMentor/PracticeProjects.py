@@ -1,0 +1,9 @@
+Simulate a basic product catalog entry:
+
+---------------------------------------
+
+Product Information
+Name: (product name)
+ID: (product id in str)
+Price: $(price in str)
+Available: (stock in boolean)
