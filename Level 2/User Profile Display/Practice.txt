@@ -1,11 +1,16 @@
-Create a simple user profile display system:
+Create a user profile display system. Use variables to store:
+A username (string)
+An age (integer)
+A height in feet (float)
+Whether the user is a student (boolean)
+Print out each piece of information. Remember to convert non-string data types to strings when printing.
 
 ---------------------------------------
 
-User Profile:
-Username: username
-Age: (age) - Int to Str
-Height (in feet): (height) - Int to Str
-Is a student: (is student) - Float
+User Profile
+Username: alice_wonder
+Age: 28
+Height (in feet): 5.6
+Is a student: False
 
 ---------------------------------------
