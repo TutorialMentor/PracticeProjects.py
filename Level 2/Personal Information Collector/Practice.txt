@@ -1,0 +1,18 @@
+Create a program that collects personal information from a user and displays it in a formatted summary.
+Instructions:
+- Use input() to collect the following information:
+- Name (string)
+- Age (integer)
+- Height in meters (float)
+- Is employed (boolean)
+Use an f-string to format and print the collected information.
+
+---------------------------------------
+
+Personal Information Summary:
+Name: John Doe
+Age: 30 years old
+Height: 1.75 meters
+Employed: True
+
+---------------------------------------
